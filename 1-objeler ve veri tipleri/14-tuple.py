@@ -32,10 +32,10 @@ indexT = tupleL.index('dokuz')
 print(indexT)
 #tuple içinde sorduğumuz elemanın ilk var olduğu index numarasını verir
 
-names = ('veli', 'mehmet', 'hülya')
+names = ('veli', 'mehmet', 'ekin')
 allT = names +tupleL
 print(allT)
 #ya da
-allT2 = ('veli', 'mehmet', 'hülya') + tupleL
+allT2 = ('veli', 'mehmet', 'ekin') + tupleL
 print(allT2)
 #tuple listeler + operatörü ile birleştirilerek tek bir tuple haline getirilebilir

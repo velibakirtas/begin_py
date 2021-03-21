@@ -58,8 +58,8 @@ def displayUser(**params): #gelecek olan liste türünün dictionary olduğunu b
         print('{} is {}'.format(key,value))
         
 displayUser(name = 'Veli', age = 21, city = 'istanbul')
-displayUser(name = 'Mehmet', age = 17, city = 'konya', phone = '123')
-displayUser(name = 'Hulya', age = 43, city = 'sivas', phone = '456', mail = 'h@m.com')
+displayUser(name = 'Mehmet', age = 17, city = 'izmir', phone = '123')
+displayUser(name = 'sıla', age = 43, city = 'ankara', phone = '456', mail = 's@m.com')
 
 def myFonk(a, b, *parameter, **kw):
     print(a)
@@ -67,7 +67,7 @@ def myFonk(a, b, *parameter, **kw):
     print(parameter)
     print(kw)
     
-myFonk(1, 100, 10, 200,, 3 'veli',key1 = 'value2', key2 = 98 )
+myFonk(1, 100, 10, 200, 3 ,'veli',key1 = 'value2', key2 = 98 )
 #oluşturulan fonksiyona gönderilen parametreler tek bir veri tipi ya da liste türünden oluşmak zorunda değildir
 #örnekte olduğu gibi parametrede a ve b'ye int, parameter'a tuple ve kw'ye dict attık
     

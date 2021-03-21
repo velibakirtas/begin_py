@@ -1,4 +1,4 @@
-'''
+
 name = 'Veli Bakirtas'
 
 for harf in name:
@@ -13,22 +13,22 @@ for harf2 in name:
     print(harf2)
 # harf2 değişkeninin 'a' ya eşit olduğu döngü turunu pas geçip döngüye devam et
 
-'''
+
 x = 0
-'''
+
 while x<5:    
     if x == 3:
         break
     print(x)
     x+=1
 # 0 dan 5 e kadar yazdırdığımız sayının 3'e eşit olması halinde breakle karşılaşılır ve döngü sona erer.
-'''
+
 while x<5:
     if x == 2:    
         continue
     print(x)
     x+=1   
-'''     
+     
 #bu döngüde x, 2'ye eşit olduğunda döngünün o turu atlanır
 #tur atlandığı için değişken üzeride işlem yapılmaz
 #haliyle değişken daima 2 ye eşit olarak kalır ve döngü sonsuz işlem görür.    
@@ -51,4 +51,4 @@ while x <= 100:
         continue
     toplam += x
 print(toplam)
-'''                   
+                   

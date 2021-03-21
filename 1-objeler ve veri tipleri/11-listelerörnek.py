@@ -49,11 +49,11 @@ print(tcar)
 #verilen elemanları bir liste içinde sakla
       # ogrenciA = Veli Bakirtas 1999 (90,85,67)
       # ogrenciB = Mehmet Bakirtas 2004 (100,84,79)
-      # ogrenciC = Hulya Bakirtas 1977 (56,87,34)
+      # ogrenciC = Ayse Bakirtas 1977 (56,87,34)
       
 ogrenciA = ['Veli','Bakirtas',1999,[90,85,67]]
 ogrenciB = ['Mehmet','Bakirtas',2004,[100,54,79]]
-ogrenciC = ['Hulya','Bakirtas',1977,[56,87,34]]
+ogrenciC = ['Ayse','Bakirtas',1977,[56,87,34]]
 
 print(ogrenciA)
 print(ogrenciB)

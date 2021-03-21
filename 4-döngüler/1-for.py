@@ -21,7 +21,7 @@ for num2 in number:
     print('hello')
 #listede 5 eleman bulunuyor listedeki eleman sayısı kadar print parametresindeki ifadeyi yazdırdık
 
-names = ['veli', 'mehmet', 'hülya']
+names = ['veli', 'mehmet', 'suna']
 
 for isim in names:
     print(f'my name is {isim}')
