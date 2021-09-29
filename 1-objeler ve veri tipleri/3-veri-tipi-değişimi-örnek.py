@@ -26,4 +26,3 @@ print('alan: ' + DaireAlani + 'cevre: ' + DaireCevresi) #Hesaplanan değeri kull
 '''
 
 print('alan: ' + str(DaireAlani) + 'cevre: ' + str(DaireCevresi))
- #print komutu içinde değişken tanımlama yapılırken değişken isminden sonra + konur ve değer yazılır
