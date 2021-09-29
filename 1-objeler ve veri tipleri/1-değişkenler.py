@@ -44,7 +44,6 @@ x = 1                #integer
 y = 2.3              #float
 isStudent = True     #bool
 name = "Veli"        #string
-# Buradaki isStudent = True örneğinde öğrenci mi sorusuna 'Evet' cevabını veriyoruz
 
 x, y, isStudent, name = (1, 2.3, True, "Veli") # Tek bir satırda birden fazla değişken tanımlanabilir.
 
