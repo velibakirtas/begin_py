@@ -39,4 +39,4 @@ siparis3 = 3.5
 
 toplam = siparis1 + siparis2 + siparis3
 
-print("Toplam:", toplam) #toplam'a atanan değeri Toplam' a atyarak yaz.
+print("Toplam:", toplam)
